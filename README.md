@@ -29,3 +29,13 @@ This repo is a clone of: https://github.com/varadbhogayata/varadbhogayata.github
 ### **Home Page Screenshot:** ###
 
 ![Alt text](media/HomePageNewColourScreenshot.png)
+
+## **Activity 4** ##
+
+### **Repo Screenshot:** ###
+
+![Alt text](media/RepoScreenshot4.png)
+
+### **Places Travelled Section Screenshot:** ###
+
+![Alt text](media/PlacesTravelledScreenshot.png)
