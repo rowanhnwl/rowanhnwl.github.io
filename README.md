@@ -19,3 +19,13 @@ This repo is a clone of: https://github.com/varadbhogayata/varadbhogayata.github
 ### **Home Page Screenshot:** ###
 
 ![Alt text](media/HomePageScreenshot.png)
+
+## **Activity 3** ##
+
+### **Repo Screenshot:** ###
+
+![Alt text](media/RepoScreenshot3.png)
+
+### **Home Page Screenshot:** ###
+
+![Alt text](media/HomePageNewColourScreenshot.png)
